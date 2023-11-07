@@ -4,9 +4,9 @@ public class volvoOef2 {
     public static void main(String[] args) {
         String[] stringArray = {
                 "co",
-                "do",
+                "di",
                 "li",
-                "teo"
+                "ty"
         };
 
         String[] stringArray2 = {
